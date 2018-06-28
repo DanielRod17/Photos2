@@ -13,7 +13,7 @@ namespace Photos2
         {
             InitializeComponent();
 
-            MainPage = new Photos2.MainPage();
+            MainPage = new Photos2.Camara();
         }
 
         protected override void OnStart()
